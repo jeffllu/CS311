@@ -1,4 +1,4 @@
-using namespace std; //1238 3792
+using namespace std;
 #include <iostream>
 #include <vector>
 
